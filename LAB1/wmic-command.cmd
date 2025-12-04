@@ -1,4 +1,5 @@
 dir
+pause
 wmic bios get serialnumber
 wmic nic get macaddress
 getmac
